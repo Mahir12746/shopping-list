@@ -1,4 +1,4 @@
-Shoppping List Project Specifications
+Shopping List Project Specifications
 
 --> Add items to list via form
 --> Remove items from list by clicking the "X" button
